@@ -2,7 +2,7 @@
 
 I'm heading to electrical engineering at Polytechnique de Montreal and I'm hoping to specialise into ASIC. I hope to use this page in order to document my journey. 
 
-What got me into this field is my annoyance at how AMD dominated Intel in the CPU race. I liked AMD's affordability (my first PC was a ryzen  3700x), but secretly I've always been team blue since it's my favourite color. I wanted to help Intel catch up to AMD, which struck my curiosity to learn more about CPUs.
+What got me into this field is my annoyance at how AMD dominated Intel in the CPU race. I liked AMD's affordability (my first PC was a ryzen  3700x), but secretly I've always been team blue since it's my favourite color. I wanted to help Intel catch up to AMD, which struck my curiosity to learn more about electrical engineering.
 
 I'm fluent in Mandarin, French and English. I'm currently learning Japanese (I had a 365 streak on Duolingo).
 Fun Fact: I play badminton and boulder. My dream was to go pro in a sport, but I was constantly injured :(
