@@ -2,10 +2,11 @@
 
 I'm heading to electrical engineering at Polytechnique de Montreal and I'm hoping to specialise into ASIC. I hope to use this page in order to document my journey. 
 
-What got me into this field is my annoyance at how AMD dominated Intel in the CPU race. I liked AMD's affordability (my first PC was a ryzen  3700x), but secretly I've always been team blue since it's my favourite color. I wanted to help Intel catch up to AMD, which struck my curiosity to learn more about electrical engineering.
+What got me into this field is Youtubers like LTT and Micheal Reaves. LTT and the CPU race between Intel and AMD are just some things that sparked my curiosity to learn more about CPUs and the incredible technologies we have developed to be able to fabricate chips on a nanometer scale. I liked AMD's affordability (my first PC was a ryzen  3700x), but secretly I've always been team blue since it's my favourite color, which is why one of my past aspirations was to be an engineer at Intel to help them compete again.
 
+Here are some fun facts about me:
 I'm fluent in Mandarin, French and English. I'm currently learning Japanese (I had a 365 streak on Duolingo).
-Fun Fact: I play badminton and boulder. My dream was to go pro in a sport, but I was constantly injured :(
+I play badminton and boulder. My dream was to go pro in a sport, but I was constantly injured :(
 
 Python, C#, C++
 KiCad, Fusion 360
