@@ -2,7 +2,7 @@
 
 I'm heading to electrical engineering at Polytechnique de Montreal and I'm hoping to specialise into ASIC. I hope to use this page in order to document my journey. 
 
-What got me into this field is Youtubers like LTT and Micheal Reaves. LTT and the CPU race between Intel and AMD are just some things that sparked my curiosity to learn more about CPUs and the incredible technologies we have developed to be able to fabricate chips on a nanometer scale. I liked AMD's affordability (my first PC was a ryzen  3700x), but secretly I've always been team blue since it's my favourite color, which is why one of my past aspirations was to be an engineer at Intel to help them compete again.
+What got me into this field is Youtubers like Electroboom and Micheal Reaves. Seeing people like Micheal Reaves bring his schemes to life made me want to be there and build with him. For me, building projects is what gets me excited to learn more about the world and to be able to improve upon my future projects. Making my ideas into reality and seeing the fruits of my work is what gives the most amount of joy in life. 
 
 Here are some fun facts about me:
 I'm fluent in Mandarin, French and English. I'm currently learning Japanese (I had a 365 streak on Duolingo).
