@@ -1,4 +1,4 @@
-### Hey, I'm Andrew
+### Hello I'm Andrew.
 
 I'm heading to electrical engineering at Polytechnique de Montreal and I'm hoping to specialise into ASIC. I hope to use this page in order to document my journey. 
 
